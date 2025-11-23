@@ -1,0 +1,2 @@
+Bot won: 1
+User won: 26
